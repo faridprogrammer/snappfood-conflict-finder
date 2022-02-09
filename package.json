@@ -1,0 +1,15 @@
+{
+  "name": "snappfood-conflict-finder",
+  "version": "1.0.0",
+  "description": "A simple tool to find snappfood conflics in VAT calculations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
